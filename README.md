@@ -5,7 +5,7 @@ This project is a retro Snake game built using C++ and the Raylib library. The m
 
 The game implements core OOP principles such as encapsulation, abstraction, and reusability, wrapped in a fun, interactive game. The snake can be controlled by either arrow keys or specific alternative keys (IJKL).
 
-[Watch the Demo Video on YouTube](https://www.youtube.com/watch?v=Dy0QeRcTF0s)
+[Watch the Demo Video on YouTube](https://www.youtube.com/watch?v=WWwxZBHeyjk)
 
 ## Features
 - Classic Snake gameplay.
